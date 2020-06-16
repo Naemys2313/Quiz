@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="hint_email_edit_text">Enter your email</string>
+    <string name="hint_login_edit_text">Enter your login</string>
+    <string name="hint_password_edit_text">Enter your password</string>
+    <string name="repeat_password_edit_text">Repeat your password</string>
+    <string name="sign_in_button">Sign in</string>
+    <string name="sign_up_toggle_sign_text_view">Tap to sign up</string>
+    <string name="sign_up_button">Sign up</string>
+    <string name="sign_in_toggle_sign_text_view">Tap to sign in</string>
+</resources>
